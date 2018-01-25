@@ -20,6 +20,6 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
  var sum = 0
-
+ var c = 0
 }
 
